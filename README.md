@@ -2,12 +2,15 @@
 Interactive Power BI dashboard built using the Maven Market dataset, featuring data modeling, DAX measures, and business insights through interactive visualizations.
 
 <h1> Dashboard Preview </h1>
+<br>
+
+https://github.com/Mannat-Arora7/Power-Bi-Maven-Market-Dashboard/blob/main/Dashboard%20Preview.png
 
 ---
 
 <h1> Project Overview </h1>
 <br>
-This project demonstrates the complete Power BI workglow, including:
+This project demonstrates the complete Power BI workflow, including:
 <br>
 
 <ul>
